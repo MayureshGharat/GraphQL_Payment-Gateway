@@ -3,7 +3,7 @@ Reference: https://www.graphql-java.com/tutorials/getting-started-with-spring-bo
 
 # Running test for request response for the Stripe's "/v1/charges" API
 You can run the "src/test/java/com/graphqljava/example/paymentgateway/TestRequestResponse.java".
-The "requestlog-charges.json" file is located at "src/main/resources/requestlog-charges.json" 
+The "requestlog-charges.json" file used in the test is located at "src/main/resources/requestlog-charges.json" 
 
 # Starting the PaymentGatewayApplication server 
 

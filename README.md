@@ -1,2 +1,2 @@
 # GraphQL_Payment-Gateway
-My First Commit.
+Reference: https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/

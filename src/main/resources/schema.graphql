@@ -1,0 +1,19 @@
+type Query {
+    bookById(id: ID): Book
+    ValidateRequest(requestID: Int): String
+    ChargeClient(clientId: Int, amount: Int): String
+    UpdateChargeWithTip(chargeId: String, tipAmount: Int): Boolean
+}
+
+type Book {
+    id: ID
+    name: String
+    pageCount: Int
+    author: Author
+}
+
+type Author {
+    id: ID
+    firstName: String
+    lastName: String
+}

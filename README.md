@@ -9,4 +9,4 @@ ValidateRequest API:![Screen Shot 2022-02-21 at 3 01 27 PM](https://user-images.
 
 ChargeClient API:![Screen Shot 2022-02-21 at 3 01 43 PM](https://user-images.githubusercontent.com/4326831/155036022-1dc61a7f-6320-4bd0-b9fe-e9179f8b8973.png)
 
-UpdateChargeWithTip API:![Screen Shot 2022-02-21 at 3 02 00 PM](https://user-images.githubusercontent.com/4326831/155036044-7c0f9806-f592-42d9-a7f4-39c7c831a494.png
+UpdateChargeWithTip API:![Screen Shot 2022-02-21 at 3 02 00 PM](https://user-images.githubusercontent.com/4326831/155036102-cc2d3c74-d576-4129-973d-7c4ba0bdeb40.png)
